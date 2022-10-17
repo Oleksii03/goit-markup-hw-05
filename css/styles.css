@@ -726,7 +726,7 @@ body {
 .overlay-card__text {
   position: absolute;
   padding: 63px 24px;
-  background: var(--blue-accent-color);
+  background: rgba(33, 150, 243, 0.9);
   color: var(--white-base-color);
   font-size: 18px;
   line-height: calc(28 / 18);
